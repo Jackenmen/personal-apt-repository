@@ -1,0 +1,19 @@
+name: Synchronize deb packages to Gemfury repository.
+on:
+  schedule:
+    - cron: '42 * * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  sync_debs_to_gemfury:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Synchronize deb packages to Gemfury repository.
+        uses: Jackenmen/sync-debs-to-gemfury@0.2.0
+        env:
+          GEMFURY_USERNAME: Jackenmen
+          GEMFURY_PUSH_TOKEN: ${{ secrets.gemfury_push_token }}
