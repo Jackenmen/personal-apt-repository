@@ -1,0 +1,19 @@
+---
+packages:
+  discord:
+    type: direct_url
+    config:
+      url: https://discord.com/api/download?platform=linux&format=deb
+
+  heroic:
+    type: github_release
+    config:
+      repository: Heroic-Games-Launcher/HeroicGamesLauncher
+      asset_name_pattern: _amd64\.deb$
+
+  rustdesk:
+    type: github_release
+    config:
+      repository: rustdesk/rustdesk
+      tag: nightly
+      asset_name_pattern: -x86_64-.+\.deb$
