@@ -5,6 +5,12 @@ packages:
     config:
       url: https://discord.com/api/download?platform=linux&format=deb
 
+  drawio:
+    type: github_release
+    config:
+      repository: jgraph/drawio-desktop
+      asset_name_pattern: -amd64-.+\.deb$
+
   heroic:
     type: github_release
     config:
