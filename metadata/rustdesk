@@ -1,7 +1,7 @@
 {
     "version": "1.2.0",
-    "version_counter": 59,
+    "version_counter": 60,
     "hashes": {
-        "sha256": "7a5fe82a94d81bf8cd901f65f20e1dfcaea64598d1d5fa203a1b2bcbe00011a7"
+        "sha256": "abe5261ba42c134caf1bc22dc79012ca99f4ac89b216d039fd70863b28d99519"
     }
 }
