@@ -28,4 +28,4 @@ packages:
     config:
       repository: rustdesk/rustdesk
       tag: nightly
-      asset_name_pattern: -x86_64-.+\.deb$
+      asset_name_pattern: -x86_64\.deb$
