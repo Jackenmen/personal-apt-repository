@@ -27,5 +27,4 @@ packages:
     type: github_release
     config:
       repository: rustdesk/rustdesk
-      tag: nightly
       asset_name_pattern: -x86_64\.deb$
