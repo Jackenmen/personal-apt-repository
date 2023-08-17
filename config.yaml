@@ -28,3 +28,9 @@ packages:
     config:
       repository: rustdesk/rustdesk
       asset_name_pattern: -x86_64\.deb$
+
+  spotube:
+    type: github_release
+    config:
+      repository: KRTirtho/spotube
+      asset_name_pattern: -x86_64\.deb$
