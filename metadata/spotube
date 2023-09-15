@@ -1,7 +1,7 @@
 {
-    "version": "3.1.1+23",
+    "version": "3.1.2+24",
     "version_counter": 0,
     "hashes": {
-        "sha256": "980fc65df2d5e16dc7f24c1c999d82dc19c64d0973fdc3310b6195601b86e23e"
+        "sha256": "4fcfe3a1ebf4231393ff2656f0f869bdfaa43c5e44fea5312ee65641a6e0b78a"
     }
 }
