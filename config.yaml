@@ -34,3 +34,9 @@ packages:
     config:
       repository: KRTirtho/spotube
       asset_name_pattern: -x86_64\.deb$
+
+  web-os-dev-manager:
+    type: github_release
+    config:
+      repository: webosbrew/dev-manager-desktop
+      asset_name_pattern: _amd64\.deb$
