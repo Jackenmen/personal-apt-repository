@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Synchronize deb packages to Gemfury repository.
-        uses: Jackenmen/sync-debs-to-gemfury@0.2.1
+        uses: Jackenmen/sync-debs-to-gemfury@0.3.0
         env:
           GEMFURY_USERNAME: Jackenmen
           GEMFURY_PUSH_TOKEN: ${{ secrets.gemfury_push_token }}
