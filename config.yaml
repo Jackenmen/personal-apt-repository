@@ -23,6 +23,12 @@ packages:
       repository: lutris/lutris
       asset_name_pattern: _(all|amd64)\.deb$
 
+  pandoc:
+    type: github_release
+    config:
+      repository: jgm/pandoc
+      asset_name_pattern: -amd64\.deb$
+
   rustdesk:
     type: github_release
     config:
