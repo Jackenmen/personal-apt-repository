@@ -15,7 +15,7 @@ packages:
     type: github_release
     config:
       repository: Heroic-Games-Launcher/HeroicGamesLauncher
-      asset_name_pattern: _amd64\.deb$
+      asset_name_pattern: -amd64\.deb$
 
   lutris:
     type: github_release
