@@ -1,8 +1,8 @@
 {
     "name": "spotube",
-    "version": "4.0.1+40",
+    "version": "4.0.2+41",
     "version_counter": 0,
     "hashes": {
-        "sha256": "733eb2ae9569fc2560ee38501e1c6f27e2e6f0dfb1a4e178769b53de9871c5c6"
+        "sha256": "48cfe55948577b6d050a09de7a09f902ce5ae77601b280c831f2188510475a32"
     }
 }
