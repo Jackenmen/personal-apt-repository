@@ -1,8 +1,8 @@
 {
     "name": "pandoc",
-    "version": "3.7.0.1-1",
+    "version": "3.7.0.2-1",
     "version_counter": 0,
     "hashes": {
-        "sha256": "f3263d3c80d759b5d339762593a951c3489ffc4526df628824a52be58a431298"
+        "sha256": "4db8bad3d9f8451a3d52171664f3c58b08af6450fbd54a28dd05f6b00b0bbb04"
     }
 }
