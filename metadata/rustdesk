@@ -1,8 +1,8 @@
 {
     "name": "rustdesk",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "version_counter": 0,
     "hashes": {
-        "sha256": "e5b8a1bb3ea697716263c9309c79db667aedb3e024400dc3d07f5aaa0edfb907"
+        "sha256": "084013ed7f619ab7b8cb0fdaf5b24e2b00e773bf3de31d4a365a97879891fedb"
     }
 }
