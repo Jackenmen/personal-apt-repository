@@ -7,6 +7,7 @@ packages:
 
   draw.io:
     type: github_release
+    download_should_fail: true
     config:
       repository: jgraph/drawio-desktop
       asset_name_pattern: -amd64-.+\.deb$
