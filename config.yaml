@@ -7,9 +7,6 @@ packages:
 
   draw.io:
     type: github_release
-    # the included debian/changelog file is invalid
-    # https://github.com/jordansissel/fpm/issues/2126
-    download_should_fail: true
     config:
       repository: jgraph/drawio-desktop
       asset_name_pattern: -amd64-.+\.deb$
