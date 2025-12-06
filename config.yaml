@@ -29,6 +29,12 @@ packages:
       repository: jgm/pandoc
       asset_name_pattern: -amd64\.deb$
 
+  rclone-ui:
+    type: github_release
+    config:
+      repository: rclone-ui/rclone-ui
+      asset_name_pattern: _amd64\.deb$
+
   rustdesk:
     type: github_release
     config:
