@@ -1,8 +1,8 @@
 {
     "name": "rclone-ui",
-    "version": "3.1.5",
+    "version": "3.2.0",
     "version_counter": 0,
     "hashes": {
-        "sha256": "f333c7a70c1212f5a73d3a6ca4896966e9e7ece77dedcfde2a4d58190cef994f"
+        "sha256": "3d0f802c77dd129606c87f1170bee36e0609665c287a672b1c6afbafb8f4bbea"
     }
 }
