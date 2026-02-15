@@ -11,6 +11,11 @@ packages:
       repository: jgraph/drawio-desktop
       asset_name_pattern: -amd64-.+\.deb$
 
+  fluxer-app:
+    type: direct_url
+    config:
+      url: https://api.fluxer.app/dl/desktop/stable/linux/x64/latest/deb
+
   heroic:
     type: github_release
     config:
