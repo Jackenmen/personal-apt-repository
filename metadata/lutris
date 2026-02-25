@@ -1,8 +1,8 @@
 {
     "name": "lutris",
-    "version": "0.5.21",
+    "version": "0.5.22",
     "version_counter": 0,
     "hashes": {
-        "sha256": "7b1aef873314fe5edfffb94c33bee34fb9db02a72bc6039693026a829908c5da"
+        "sha256": "88a350357e0438b423cdf93108f27942de094dc19f973df73839f3b0b0bafaa0"
     }
 }
