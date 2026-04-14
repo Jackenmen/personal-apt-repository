@@ -1,8 +1,8 @@
 {
     "name": "r-clone-manager",
-    "version": "0.2.3",
-    "version_counter": 1,
+    "version": "0.2.4",
+    "version_counter": 0,
     "hashes": {
-        "sha256": "6b1f6634e7a34c83758fa6bfd140bce58d269332f33a8f621e6868b5691dabfe"
+        "sha256": "88d69044560212e9f0bbaaec17f442f52adaddf0341b6df60415e90ede8d749a"
     }
 }
