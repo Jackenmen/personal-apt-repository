@@ -1,8 +1,8 @@
 {
     "name": "draw.io",
-    "version": "29.6.6",
+    "version": "29.7.9",
     "version_counter": 0,
     "hashes": {
-        "sha256": "8470f56ab7e0a6083a4e3ae802038f6defbc3df1701caf9d1e8a5cff74321bcf"
+        "sha256": "76c2d61643937b3135f2edc6f1f214c651236bc1fb57e8d98d1fd284d4a59a42"
     }
 }
