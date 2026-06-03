@@ -28,6 +28,12 @@ packages:
       repository: lutris/lutris
       asset_name_pattern: _(all|amd64)\.deb$
 
+  nix-multi-user:
+    type: html
+    config:
+      url: https://nix-community.github.io/nix-installers/
+      xpath: .//a[starts-with(@href, './nix/x86_64/nix-multi-user-') and ends-with(@href, '.deb')]/@href
+
   pandoc:
     type: github_release
     config:
