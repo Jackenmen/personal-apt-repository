@@ -1,0 +1,8 @@
+{
+    "name": "nix-multi-user",
+    "version": "2.24.10",
+    "version_counter": 0,
+    "hashes": {
+        "sha256": "3ddf9f1c6c9a9a1c104d883a37802f07eaddb9a3066587683ba770869a4e8467"
+    }
+}
