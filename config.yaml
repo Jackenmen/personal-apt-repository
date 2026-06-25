@@ -28,6 +28,12 @@ packages:
       repository: lutris/lutris
       asset_name_pattern: _(all|amd64)\.deb$
 
+  mongodb-compass:
+    type: github_release
+    config:
+      repository: mongodb-js/compass
+      asset_name_pattern: ^mongodb-compass_.*_amd64\.deb$
+
   nix-multi-user:
     type: html
     config:
