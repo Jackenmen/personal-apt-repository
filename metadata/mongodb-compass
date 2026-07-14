@@ -1,8 +1,8 @@
 {
     "name": "mongodb-compass",
-    "version": "1.49.11",
+    "version": "1.49.12",
     "version_counter": 0,
     "hashes": {
-        "sha256": "78c47744d9037fcd552293542293cc2743d9b833bb7e4e7a39c87a5fd366c6bb"
+        "sha256": "b32ba8359d8c98f1e04e2e791e2a2a9184334b52ec6f3720756a0578cfb3d918"
     }
 }
