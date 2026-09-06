@@ -1,8 +1,8 @@
 {
     "name": "webos-dev-manager",
-    "version": "1.99.19",
+    "version": "1.99.20",
     "version_counter": 0,
     "hashes": {
-        "sha256": "075e7a1d15119b1705f11493cb381642c689defbdc3448f3860b68c4bf06b0b6"
+        "sha256": "a3e2fa49e460643b9e857752b4d55d1dcb5872240ffa755e5e7afe1d017912c2"
     }
 }
