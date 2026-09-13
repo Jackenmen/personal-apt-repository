@@ -40,6 +40,12 @@ packages:
       url: https://nix-community.github.io/nix-installers/
       xpath: .//a[starts-with(@href, './nix/x86_64/nix-multi-user-') and ends-with(@href, '.deb')]/@href
 
+  nuvio:
+    type: github_release
+    config:
+      repository: NuvioMedia/NuvioDesktop
+      asset_name_pattern: -x86_64-.+\.deb$
+
   pandoc:
     type: github_release
     config:
