@@ -1,8 +1,8 @@
 {
     "name": "heroic",
-    "version": "2.22.1",
+    "version": "2.22.2",
     "version_counter": 0,
     "hashes": {
-        "sha256": "2f3bdb663b48144b7804c30724765dc4bdc76357b7cd5f35a5dadf3030f6a948"
+        "sha256": "7524871e7ec3466085e75594d0ecc901b21fb8193434e58fd2fc6ae44732043a"
     }
 }
