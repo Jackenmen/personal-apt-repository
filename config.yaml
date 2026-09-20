@@ -11,10 +11,15 @@ packages:
       repository: jgraph/drawio-desktop
       asset_name_pattern: -amd64-.+\.deb$
 
+  fluxer:
+    type: direct_url
+    config:
+      url: https://pkgs.fluxer.com/desktop/stable/linux/x64/latest/deb
+
   fluxer-canary:
     type: direct_url
     config:
-      url: https://api.fluxer.app/dl/desktop/canary/linux/x64/latest/deb
+      url: https://pkgs.fluxer.com/desktop/canary/linux/x64/latest/deb
 
   heroic:
     type: github_release
