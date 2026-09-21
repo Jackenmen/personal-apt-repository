@@ -1,8 +1,8 @@
 {
     "name": "nuvio",
-    "version": "1.1.24-1",
+    "version": "1.1.25-1",
     "version_counter": 0,
     "hashes": {
-        "sha256": "5caa76bc9c8e8afe7cd74e8f1ce51e976c23759651b885e724beb2734777c52e"
+        "sha256": "436e3a336201f346e6120b2154fe8989ea0d9729103ebb9b7f16ec221657b777"
     }
 }
