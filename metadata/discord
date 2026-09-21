@@ -1,8 +1,8 @@
 {
     "name": "discord",
-    "version": "1.0.158",
+    "version": "1.0.159",
     "version_counter": 0,
     "hashes": {
-        "sha256": "022b1e269bcd1523542fb35b51ae840fdb994d96a8a2245f1c54542b545b2060"
+        "sha256": "66defc5f8da531bd97497963dd3f00a9c88a10d7667802c098598db3a70e990f"
     }
 }
