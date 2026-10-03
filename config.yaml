@@ -73,7 +73,7 @@ packages:
     type: github_release
     config:
       repository: rustdesk/rustdesk
-      asset_name_pattern: -x86_64\.deb$
+      asset_name_pattern: ^rustdesk-\d+(\.\d+)+-x86_64\.deb$
 
   spotube:
     type: github_release
