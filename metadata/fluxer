@@ -1,8 +1,8 @@
 {
     "name": "fluxer",
-    "version": "2026.1003.155758",
+    "version": "2026.1004.13532",
     "version_counter": 0,
     "hashes": {
-        "sha256": "990df3e5454d0bd657f07419dd0ceab5c91c3bfb8bbbd70961855e028465b631"
+        "sha256": "1de099afc26fa6f8566a038262161cbb24c219136d026e913c8ed90931c7b5b0"
     }
 }
