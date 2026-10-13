@@ -86,3 +86,9 @@ packages:
     config:
       repository: webosbrew/dev-manager-desktop
       asset_name_pattern: _amd64\.deb$
+
+  zettlr:
+    type: github_release
+    config:
+      repository: Zettlr/Zettlr
+      asset_name_pattern: -amd64\.deb$
