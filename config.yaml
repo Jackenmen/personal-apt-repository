@@ -5,6 +5,12 @@ packages:
     config:
       url: https://discord.com/api/download?platform=linux&format=deb
 
+  cloudflared:
+    type: github_release
+    config:
+      repository: cloudflare/cloudflared
+      asset_name_pattern: cloudflared-linux-amd64\.deb$
+
   draw.io:
     type: github_release
     config:
