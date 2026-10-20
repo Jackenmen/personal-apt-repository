@@ -33,6 +33,12 @@ packages:
       repository: Heroic-Games-Launcher/HeroicGamesLauncher
       asset_name_pattern: -amd64\.deb$
 
+  imhex:
+    type: github_release
+    config:
+      repository: WerWolv/ImHex
+      asset_name_pattern: -Ubuntu-24\.04-x86_64\.deb$
+
   lutris:
     type: github_release
     config:
