@@ -1,8 +1,8 @@
 {
     "name": "zettlr",
-    "version": "4.8.0",
+    "version": "4.9.0",
     "version_counter": 0,
     "hashes": {
-        "sha256": "104e5655bd3fa26112707478c133d141aeb4058da7491c61eb3c431037deb90b"
+        "sha256": "1411b2f544f106e7bae8ed844181d854255c5d0e0c959e9ece8a1fd5f91a9f4f"
     }
 }
