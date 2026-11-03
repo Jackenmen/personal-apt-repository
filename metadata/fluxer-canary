@@ -1,8 +1,8 @@
 {
     "name": "fluxer-canary",
-    "version": "2026.1101.102914",
+    "version": "2026.1103.194246",
     "version_counter": 0,
     "hashes": {
-        "sha256": "09a84a8385890d700df519e35a7782cacc42bcffb1f14d0384f799e6a15364ea"
+        "sha256": "6eb45dfd5b96886208df29506cf3be5f825131c5e6bf16210809d8fee2321a44"
     }
 }
