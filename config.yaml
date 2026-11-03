@@ -1,5 +1,11 @@
 ---
 packages:
+  activitywatch:
+    type: github_release
+    config:
+      repository: ActivityWatch/activitywatch
+      asset_name_pattern: ^activitywatch-v\d+(\.\d+)+-linux-x86_64\.deb$
+
   discord:
     type: direct_url
     config:
