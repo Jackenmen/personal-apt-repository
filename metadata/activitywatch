@@ -1,8 +1,8 @@
 {
     "name": "activitywatch",
-    "version": "0.14.1",
+    "version": "0.14.2",
     "version_counter": 0,
     "hashes": {
-        "sha256": "05806625df65ab419fb6b0da5323d053c07f5e244905187f73673a50eff5ac77"
+        "sha256": "303fcc70ef7209109e4956a2d07eeb4cb8b1b3ebe38c2f69e2904425d0cf2323"
     }
 }
