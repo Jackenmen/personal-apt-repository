@@ -1,8 +1,8 @@
 {
     "name": "cloudflared",
-    "version": "2026.11.1",
+    "version": "2026.11.2",
     "version_counter": 0,
     "hashes": {
-        "sha256": "744ce90be92adb361103d51c85f78646314c47e4a68bbaadfe12ab5acc16c9b6"
+        "sha256": "420c785222100e1e6bf9f692aca24ce0971d7918f642c52cf8ad8b6af5b41d2d"
     }
 }
